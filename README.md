@@ -3,37 +3,36 @@
     <h1 align="center">KISII254-MD</h1>
   </a>
 
-
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 ## 𝐇𝐄𝐑𝐄 𝐈𝐒 𝐓𝐇𝐄 𝐏𝐑𝐎𝐆𝐑𝐄𝐒𝐒 𝐅𝐎𝐑  𝐊𝐈𝐒𝐈𝐈𝟐𝟓𝟒 𝐌𝐃𝐁𝐎𝐓
+<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
 
 
 <p align="center">
-<a href="https://github.com/carl24tech/followers"><img title="CarlTech-Followers" src="https://img.shields.io/github/followers/carl24tech?color=blue&style=flat-square"></a>
+<a href="https://github.com/glens-boom/followers"><img title="kisii254md-Followers" src="https://img.shields.io/github/followers/kisii?color=blue&style=flat-square"></a>
     
-<a href="https://github.com/carl24tech/Cyberion-Spark-X/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/carl24tech/Cyberion-Spark-X?color=blue&style=flat-square"></a>
+<a href="https://github.com/glens-boom/KISII254/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/glens-boom/KISII254?color=blue&style=flat-square"></a>
 
-<a href="https://github.com/carl24tech/Cyberion-Spark-X/network/members"><img title="Forks" src="https://img.shields.io/github/forks/carl24tech/Cyberion-Spark-X?color=yellow&style=flat-square"></a>
+<a href="https://github.com/glens-boom/KISII254/network/members"><img title="Forks" src="https://img.shields.io/github/forks/glens-boom/KISII254?color=yellow&style=flat-square"></a>
 
-<a href="https://github.com/carl24tech/Cyberion-Spark-X/"><img title="Size" src="https://img.shields.io/github/repo-size/carl24tech/Cyberion-Spark-X?style=flat-square&color=pink"></a>
+<a href="https://github.com/glens-boom/KISII254/"><img title="Size" src="https://img.shields.io/github/repo-size/glens-boom/KISII254?style=flat-square&color=pink"></a>
 
-<a href="https://github.com/carl24tech/Cyberion-Spark-X/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
+<a href="https://github.com/glens-boom/KISII254/graphs/commit-activity"><img height="20" src="https://img.shields.io/badge/Maintained%3F-yes-green.svg"></a>&nbsp;&nbsp;
 </p>
 <p align='center'>
 </p>
 
- <p align="center"><img src="https://profile-counter.glitch.me/{Cyberion-Spark-X}/count.svg" alt="carl24tech :: Visitor's Count" old_src="https://profile-counter.glitch.me/{carl24tech}/count.svg" /></p>
+ <p align="center"><img src="https://profile-counter.glitch.me/{𝐊𝐈𝐒𝐈𝐈𝟐𝟓𝟒 𝐌𝐃𝐁𝐎𝐓}/count.svg" alt="𝐊𝐈𝐒𝐈𝐈𝟐𝟓𝟒 𝐌𝐃𝐁𝐎𝐓:: Visitor's Count" old_src="https://profile-counter.glitch.me/{𝐊𝐈𝐒𝐈𝐈𝟐𝟓𝟒 𝐌𝐃𝐁𝐎𝐓}/count.svg" /></p>
 
 
 
 
 
-
-## HOW TO GET SPARK-X-2025 
+ ## 𝐊𝐈𝐒𝐈𝐈𝟐𝟓𝟒 𝐌𝐃𝐁𝐎𝐓 🍌 
 
   
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&color=blue&lines=𝗙𝗢𝗥𝗞+𝗔𝗡𝗗+𝗦𝗧𝗔𝗥+𝗥𝗘𝗣𝗢)](https://git.io/typing-svg)
@@ -41,7 +40,7 @@
 
   
    
-   <a href="https://github.com/carl24tech/Cyberion-Spark-X/fork"><img title="FORK-REPO" src="https://img.shields.io/badge/FORK-REPO-h?color=green&style=for-the-badge&logo=mazda" width="297" height="40.45"/></a></p>
+   <a href="https://github.com/glens-boom/KISII254/fork"><img title="FORK-REPO" src="https://img.shields.io/badge/FORK-REPO-h?color=green&style=for-the-badge&logo=mazda" width="297" height="40.45"/></a></p>
 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
@@ -65,7 +64,7 @@
  
 ## 𝐅𝐎𝐑 𝐎𝐍𝐄-𝐓𝐀𝐏 𝐃𝐄𝐏𝐋𝐎𝐘𝐌𝐄𝐍𝐓 𝐔𝐒𝐄 𝐓𝐇𝐈𝐒 𝐁𝐔𝐓𝐓𝐎𝐍
 
-   🕳IF YOU DON'T HAVE A HEROKU ACCOUNT...CREATE ONE
+   🍌IF YOU DON'T HAVE A HEROKU ACCOUNT...CREATE ONE
    
    <a href="https://signup.heroku.com/"><img title="CREATE-ACCOUNT" src="https://img.shields.io/badge/CREATE-ACCOUNT-h?color=purple&style=for-the-badge&logo=heroku" width="180" height="43.45"/></a></p>
 
