@@ -77,17 +77,3 @@
  [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Rockstar-ExtraBold&size=30&pause=1000&color=0000FF&center=true&vCenter=true&width=815&height=60&lines=▭+▬+▭+▬+▭+▬+▭+▬+▭+▬+▭)](https://git.io/typing-svg) 
 
 <a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-
-
-
-
-
-
-
-<a><img src='https://i.imgur.com/LyHic3i.gif'/></a>
-
-
-<a href="https://files.catbox.moe/qoph4w.jpg"><img src="https://files.catbox.moe/5b2d6j.jpg" alt="02" border="0" /></a>                     
-    <h1 align="center">ENJOY</h1>
-  </a>
