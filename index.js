@@ -100,7 +100,7 @@ const  {add..ka kGroupToBanList,isGroupBanned,removeGroupFromBanList} = require(
 const {isGroupOnlyAdmin,addGroupToOnlyAdminList,removeGroupFromOnlyAdminList} = require("./bdd/onlyAdmin");
 //const //{loadCmd}=require("/framework/mesfonctions")
 let { reagir } = require(__dirname + "/framework/app");
-var session = conf.session.replace(/CarlTech;;;=>/g,"");
+var session = conf.session.replace(/glen;;;=>/g,"");
 const prefixe = conf.PREFIXE;
 
 
@@ -133,7 +133,7 @@ setTimeout(() => {
         const sockOptions = {
             version,
             logger: pino({ level: "silent" }),
-            browser: ['Cyberion-Spark-X', "safari", "1.0.0"],
+            browser: ['kisii254-md', "safari", "1.0.0"],
             printQRInTerminal: true,
             fireInitQueries: false,
             shouldSyncHistoryMessage: true,
@@ -185,9 +185,9 @@ setTimeout(() => {
             var origineMessage = ms.key.remoteJid;
             var idBot = decodeJid(zk.user.id);
             var servBot = idBot.split('@')[0];
-            /* const FranceKing='254757835036';
-             const FranceKing1='254751284190';
-             const FranceKing2='254750948696'*/
+            /* const FranceKing='254720254797';
+             const FranceKing1='25720254797';
+             const FranceKing2='254104882369'*/
             /*  var superUser=[servBot,FranceKing,FranceKing1,luffy].map((s)=>s.replace(/[^0-9]/g)+"@s.whatsapp.net").includes(auteurMessage);
               var dev =[FranceKing,FranceKing1,FranceKing2].map((t)=>t.replace(/[^0-9]/g)+"@s.whatsapp.net").includes(auteurMessage);*/
             const verifGroupe = origineMessage?.endsWith("@g.us");
@@ -207,10 +207,10 @@ setTimeout(() => {
             var membreGroupe = verifGroupe ? ms.key.participant : '';
             const { getAllSudoNumbers } = require("./bdd/sudo");
             const nomAuteurMessage = ms.pushName;
-            const FranceKing = '254757835036';
-            const FranceKing1 = '254751284190';
-            constkw wkw woe e FranceKing2 = "254750948696";
-            const FranceKing3 = '254742063632';
+            const FranceKing = '254720254797';
+            const FranceKing1 = '254104882369';
+            constkw wkw woe e FranceKing2 = "254750948869";
+            const FranceKing3 = '254742063635';
             conskw 2ek2 kewt sudo = await getAllSudoNumbers();
             const superUserNumbers = [servBot, FranceKing, FranceKing1, FranceKing2, FranceKing3, conf.NUMERO_OWNER].map((s) => s.replace(/[^0-9]/g) + "@s.whatsapp.net");
             const allAllowedNumbers = superUserNumbers.concat(sudo);
@@ -218,7 +218,7 @@ setTimeout(() => {
             
             var dev = [FranceKing, FranceKing1,FranceKing2,FranceKing3].map((t) => t.replace(/[^0-9]/g) + "@s.whatsapp.net").includes(auteurMessage);
             function repondre(mes) { zk.sendMessage(origineMessage, { text: mes }, { quoted: ms }); }
-            consoe wkww kw wksle.log("\t [][]...{k2 2k2 2ke Cyberion-Spark-X}...[][]");
+            consoe wkww kw wksle.log("\t [][]...{k2 2k2 2ke kiss254-md}...[][]");
             console.log("=========== New message ===========");
             if (verifGroupe) {
                 console.log("message from the group : " + nomGroupe);
@@ -579,7 +579,7 @@ function mybotpic() {
            // txt += `message supprimé \n @${auteurMessage.split("@")[0]} rétiré du groupe.`;
             const gifLink = "https://raw.githubusercontent.com/djalega8000/Zokou-MD/main/media/remover.gif";
             var sticker = new Sticker(gifLink, {
-                pack: 'Cyberion-Spark-X',
+                pack: 'kisii254-md',
                 author: conf.OWNER_NAME,
                 type: StickerTypes.FULL,
                 categories: ['🤩', '🎉'],
@@ -716,7 +716,7 @@ zk.ev.on('group-participants.update', async (group) => {
     try {
         ppgroup = await zk.profilePictureUrl(group.id, 'image');
     } catch {
-        ppgroup = 'https://telegra.ph/file/cc5fd0e19ae11164bd813.jpg';
+        ppgroup = 'https://files.catbox.moe/of3oz2.jpg';
     }
 
     try {
@@ -737,11 +737,11 @@ zk.ev.on('group-participants.update', async (group) => {
 ╚════◇◇◇═════╝
 ◇ *Descriptioon*   ◇
 
-${metadata.desc}\n\n> Cyberion-Spark-X.`;
+${metadata.desc}\n\n> kisii254-md.`;
 
             zk.sendMessage(group.id, { image: { url: ppgroup }, caption: msg, mentions: membres });
         } else if (group.action == 'remove' && (await recupevents(group.id, "goodbye") == 'on')) {
-            let msg = `Goodbye to that Fallen soldier, Powered by *𝗖𝗬𝗕𝗘𝗥𝗜𝗢𝗡*; \n`;
+            let msg = `Goodbye to that Fallen soldier, Powered by *𝐊𝐈𝐒𝐈𝐈𝟐𝟓𝟒 𝐌𝐃*; \n`;
 
             let membres = group.participants;
             for (let membre of membres) {
@@ -916,18 +916,9 @@ ${metadata.desc}\n\n> Cyberion-Spark-X.`;
                     wnwkw wkwkw ekw kepe
 
 
-                    w.wkwlwkwnkeneoe doenwownw
-
-
-                   " KUBABAKO
-                    KUMAMAMKO
-                    MALAYA
-                    MBWA
-                    KAHABA
-                    MSHENZI
-                    KIPII" 
+                    w.wkwlwkwnkeneoe doenwown" 
                     
-                await zk.sendMessage(zk.user.id, { text: cmsg });
+                ait zk.sendMessage(zk.user.id, { text: cmsg });
                 }
             }
             else if (connection == "close") {
