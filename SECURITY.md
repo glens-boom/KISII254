@@ -1,5 +1,5 @@
 
-# Security Policy of CarlTech Codes 
+# Security Policy of glen tech Codes 
 
 ## Supported Versions
 
